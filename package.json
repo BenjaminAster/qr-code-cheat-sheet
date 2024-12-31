@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"winzig": "^0.0.5"
+	},
+	"devDependencies": {
+		"winzig-types": "^0.0.5"
+	}
+}
